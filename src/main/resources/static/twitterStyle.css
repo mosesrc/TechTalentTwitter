@@ -1,0 +1,21 @@
+
+.btn-box {
+    margin: 10px auto;
+}
+
+.login-section-1 {
+    background-image: url(img/twitterBackGround.jpg);
+    padding: 125px;
+    margin: 480px;
+}
+
+.login-section-2 {
+    background-color: #fff;
+}
+
+.icon-Big {
+    list-style-type: none;
+    font-size: 350%;
+    display: block;
+    margin-bottom: 10px;
+}
