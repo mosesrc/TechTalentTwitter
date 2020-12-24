@@ -1,0 +1,4 @@
+# TechTalentTwitter
+
+1) 12-23-2020 - Ryan M:
+	I am going to continue to try and update this application. I know that I can save 	users and login. Though, there are still issues. I am getting a whitelabel error 	after I login and once I refresh or hit the back(reverse) arrow instead of going 	to back to the login page "TO LOGIN" I am instead "LOGGED IN" into the user I was 	trying to log in too. I am excited about this new journey and I am going to keep 	studying and practicing so that I can reach the chance to become a Software 		engineer. Thank you for the class and your time! Much appreciated!
